@@ -1,5 +1,21 @@
 ![logo](https://avatars.githubusercontent.com/u/77758409?s=128&v=4)
-# Panda A6+ (Key Bypass)
+
+# Panda A7+ BETA
+
+Panda A7+ - A free access key executor in which the way to get a key is to go through a lot of ads
+
+You can get the latest version without **role** and **key**: [here](https://mega.nz/file/EDoGjaaJ) - Decryption Key: Lw5SescWvIv3KRfbM7KYg5202t69AO2pH_GMNJX_iVg
+                                                    
+List of **methods**:
+* [Method 1 - Panda Status (Instable)](https://pandatechnology.xyz/Status.PandaBeta.txt)
+
+**Demonstration**: Soon
+
+**Status**: Working ✔ (12/31/2021)
+
+**(OLD)**
+
+**Panda A6+ (Key Bypass)**
 
 Panda A6+ - A free access key executor in which the way to get a key is to go through a lot of ads
 
@@ -11,4 +27,4 @@ List of **methods**:
 
 **Demonstration**: Soon
 
-**Status Bypass**: Working ✔ (12/25/2021)
+**Status Bypass**: Working ✔ (12/31/2021)
