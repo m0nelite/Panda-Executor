@@ -1,4 +1,4 @@
-![logo](https://avatars.githubusercontent.com/u/77758409?s=128&v=4)
+![logo](https://i.imgur.com/3mP43Kp.png)
 
 # Panda A7+ BETA
 
@@ -11,11 +11,11 @@ List of **methods**:
 
 **Demonstration**: Soon
 
-**Status**: Working ✔ (12/31/2021)
+**Status**: Working ✔ (1/1/2022)
 
 **(OLD)**
 
-**Panda A6+ (Key Bypass)**
+**Panda A6+ - Key Bypass**
 
 Panda A6+ - A free access key executor in which the way to get a key is to go through a lot of ads
 
@@ -27,4 +27,4 @@ List of **methods**:
 
 **Demonstration**: Soon
 
-**Status Bypass**: Working ✔ (12/31/2021)
+**Status Bypass**: Working ✔ (1/1/2022)
