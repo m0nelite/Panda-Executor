@@ -2,7 +2,7 @@
 
 # Panda A7+ BETA
 
-Panda A7+ - A free access key executor in which the way to get a key is to go through a lot of ads
+Panda A7+ - A free executor
 
 You can get the latest version without **role** and **key**: [here](https://mega.nz/file/EDoGjaaJ) - Decryption Key: Lw5SescWvIv3KRfbM7KYg5202t69AO2pH_GMNJX_iVg
                                                     
